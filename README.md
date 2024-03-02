@@ -12,7 +12,7 @@
 <br />
 <br />
 <p align="center" >
-    <a href="[LINK TO: WHEN CLICKED](https://www.codewars.com/users/Typowy99)">
+    <a href="https://www.codewars.com/users/Typowy99">
       <img src="https://github.r2v.ch/codewars?user=Typowy99" />
     </a>
 </p>
